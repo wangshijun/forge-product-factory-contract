@@ -1,7 +1,7 @@
 {
   "description": "Simple contract that provides a product factory type that can be used to create asset factories",
   "documentation": "README.md",
-  "logo": "logo.svg",
+  "logo": "logo.png",
   "group": "contract",
   "color": "primary",
   "provider": "arcblock",
