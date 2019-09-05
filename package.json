@@ -11,7 +11,11 @@
     "@arcblock/mcrypto": "^0.37.0",
     "moment": "^2.24.0"
   },
-  "keywords": [],
+  "keywords": [
+    "forge",
+    "contract",
+    "blocklet"
+  ],
   "author": "wangshijun <wangshijun2010@gmail.com> (http://github.com/wangshijun)",
   "license": "Apache-2.0"
 }

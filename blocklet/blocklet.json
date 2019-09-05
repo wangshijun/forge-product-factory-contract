@@ -4,6 +4,6 @@
   "logo": "logo.png",
   "group": "contract",
   "color": "primary",
-  "provider": "arcblock",
+  "provider": "community",
   "hooks": {}
 }
