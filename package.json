@@ -1,6 +1,6 @@
 {
   "name": "forge-product-factory-contract",
-  "version": "0.38.0",
+  "version": "0.38.1",
   "description": "Simple contract that provides a product factory type that can be used to create asset factories",
   "scripts": {},
   "dependencies": {
