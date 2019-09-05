@@ -1,0 +1,9 @@
+{
+  "description": "Simple contract that provides a product factory type that can be used to create asset factories",
+  "documentation": "README.md",
+  "logo": "logo.svg",
+  "group": "contract",
+  "color": "primary",
+  "provider": "arcblock",
+  "hooks": {}
+}
