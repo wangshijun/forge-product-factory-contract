@@ -2,10 +2,6 @@
 
 This folder contains examples on how to compile/deploy/use custom transaction protocols to forge powered blockchain.
 
-```shell
-yarn
-```
-
 ## Getting started
 
 - Write a protocol in protocols sub folder
