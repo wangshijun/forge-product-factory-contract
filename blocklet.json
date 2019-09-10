@@ -3,5 +3,8 @@
   "group": "contract",
   "color": "primary",
   "provider": "community",
+  "documentation": "https://docs.arcblock.io",
+  "support": "support@arcblock.io",
+  "community": "https://gitter.im/ArcBlock/community",
   "hooks": {}
 }
