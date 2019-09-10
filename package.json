@@ -1,16 +1,8 @@
 {
   "name": "forge-product-factory-contract",
-  "version": "0.38.6",
+  "version": "0.38.7",
   "description": "Simple contract that provides a product factory type that can be used to create asset factories",
   "scripts": {},
-  "dependencies": {
-    "@arcblock/did-util": "^0.37.0",
-    "@arcblock/forge-util": "^0.37.0",
-    "@arcblock/forge-wallet": "^0.37.0",
-    "@arcblock/graphql-client": "^0.37.2",
-    "@arcblock/mcrypto": "^0.37.0",
-    "moment": "^2.24.0"
-  },
   "keywords": [
     "forge",
     "contract",
