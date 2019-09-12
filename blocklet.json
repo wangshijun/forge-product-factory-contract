@@ -3,6 +3,7 @@
   "group": "contract",
   "color": "primary",
   "provider": "community",
+  "composable": true,
   "templates": [
     "protocol"
   ],
