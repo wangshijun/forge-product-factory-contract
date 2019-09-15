@@ -1,8 +1,8 @@
 {
-  "logo": "logo.png",
+  "name": "contract-product-factory"
   "group": "contract",
   "color": "primary",
-  "provider": "community",
+  "provider": "official",
   "composable": true,
   "templates": [
     "protocol"
