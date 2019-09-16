@@ -1,6 +1,6 @@
 {
   "name": "contract-product-factory",
-  "version": "0.38.11",
+  "version": "0.38.12",
   "description": "Simple contract that provides a product factory type that can be used to create asset factories",
   "scripts": {},
   "keywords": [
