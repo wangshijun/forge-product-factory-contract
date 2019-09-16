@@ -1,5 +1,5 @@
 {
-  "name": "product-factory-contract",
+  "name": "contract-product-factory",
   "version": "0.38.11",
   "description": "Simple contract that provides a product factory type that can be used to create asset factories",
   "scripts": {},
